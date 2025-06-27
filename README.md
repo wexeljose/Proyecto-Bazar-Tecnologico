@@ -7,6 +7,19 @@ El objetivo es aplicar los conocimientos adquiridos para construir una API RESTf
 
 Automatizar la gestión de productos, clientes y ventas de un bazar mediante el desarrollo de una API que pueda ser consumida por aplicaciones web y mobile.
 
+## 🛠️ Tecnologías utilizadas
+Java 17+
+
+Spring Boot
+
+Maven
+
+JPA / Hibernate
+
+MySQL 
+
+Postman
+
 ## 🧱 Modelo de Datos
 
 ### 📦 Producto
@@ -80,3 +93,8 @@ Automatizar la gestión de productos, clientes y ventas de un bazar mediante el 
    ```bash
    git clone https://github.com/wexeljose/Proyecto-Bazar-Tecnologico
    cd Proyecto-Bazar-Tecnologico
+---
+## 🧑‍🎓 Autor
+Nombre: José Wexel
+
+Curso: Desarrollo de APIs en Java con Spring Boot - TodoCode Academy
